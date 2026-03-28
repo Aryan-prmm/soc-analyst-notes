@@ -96,7 +96,5 @@ Investigate all events before this timestamp.
 
 ---
 
-## Splunk Detection Example
 
-Search:
 
